@@ -37,7 +37,7 @@ class Drone():
         print(self.mFL.t + self.mFR.t + self.mBL.t + self.mBR.t)
         print(- self.mFL.t - self.mFR.t + self.mBL.t + self.mBR.t)
         print(self.mFL.t - self.mFR.t + self.mBL.t - self.mBR.t)
-        print(self.mFL.t - self.mFR.t - self.mBL.t + self.mBR.thub)
+        print(self.mFL.t - self.mFR.t - self.mBL.t + self.mBR.t)
 
 
     # MMA
